@@ -1,0 +1,4 @@
+type,num_generators,min_power,max_power
+1,12,850,2000
+2,10,1250,1750
+3,5,1500,4000
