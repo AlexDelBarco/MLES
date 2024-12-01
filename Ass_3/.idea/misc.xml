@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="$USER_HOME$/anaconda3" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5833f9d1-c272-4962-8b7a-91fe612d2b99" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="DTU" project-jdk-type="Python SDK" />
+</project>
