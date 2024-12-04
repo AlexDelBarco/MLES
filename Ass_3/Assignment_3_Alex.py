@@ -50,7 +50,7 @@ n_clusters = 10  # Specify the number of clusters you want
 kmeans = KMeans(n_clusters=n_clusters, random_state=42)
 clustering_data['Cluster'] = kmeans.fit_predict(scaled_data)
 
-# Add the cluster labels back to the original dataset
+# Add the cluster labels back to the ornb_state_priceiginal dataset
 train_prices['Cluster'] = None
 train_prices.loc[clustering_data.index, 'Cluster'] = clustering_data['Cluster']
 
